@@ -1,2 +1,4 @@
+
 test for second JP
-Adding new lines to secone file
+
+This is test for second file to test in GIT HUB....
